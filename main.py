@@ -1,12 +1,11 @@
 import pandas as pd
 import numpy as np
-
+import matplotlib.pyplot as plt
 
 dataset=pd.read_csv('Salary_Data.csv')
 
 x=dataset['YearsExperience']
 y=dataset['Salary']
-import matplotlib.pyplot as plt
 
 mean_x = np.mean(x)
 mean_y = np.mean(y)
