@@ -9,7 +9,7 @@ In linear regression, the relationships are modeled using linear predictor funct
 
 
 
-<h2>How the formula looks like.</h2>
+<h2>How the formula looks like</h2>
 
 ![LS](https://user-images.githubusercontent.com/32032491/64591869-64d34c80-d3c8-11e9-8186-427aaf04fe4f.PNG)
 
